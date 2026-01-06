@@ -4,7 +4,7 @@
 **Headline:** Transforming 300K+ Public Records into Actionable Safety Insights via Advanced Excel Modeling.
 
 * **Project Type:** End-to-End Data Analysis Initiative
-* **Tools Used:** Microsoft Excel (Used Excel for Data Cleaning, Applied a little bit of Power Query, Pivot Tables, Slicers, Dynamic Linking)
+* **Tools Used:** Microsoft Excel (Applied a little bit of Power Query for data cleaning , Pivot Tables, Slicers, Dynamic Linking)
 * **Data Source:** Kaggle (Reported Road Casualties Great Britain)
 
 ---
