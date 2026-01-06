@@ -68,3 +68,7 @@ I simplified complex categorical data to prevent dashboard clutter:
 
 ## Conclusion
 This project demonstrates the ability to **synthesize complexity** (making 300K rows readable), **ensure data reliability** (validating a "Single Source of Truth"), and **drive action** (creating tools for specific stakeholders to make data-backed decisions).
+
+## 📂 Access & Interact with the full Dashboard
+You can view the full interactive dashboard by downloading the file below:
+[🔗 Download (Excel)](https://docs.google.com/spreadsheets/d/1lT20kP0tlKZGSE8SOJbLX0Vfu3GvgU_s/edit?usp=drive_link&ouid=103170821742347333212&rtpof=true&sd=true)
