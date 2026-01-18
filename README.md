@@ -63,18 +63,21 @@ I simplified complex categorical data to prevent dashboard clutter:
 ---
 
 ## Key Insights
-* **Year-over-Year Trends:** Identified specific months where casualties peaked in **2022** compared to **2021**. In **November 2021**, the Casualties peaked at the highest **(20,975)** while the same month in **2020**, the the number stood at **18,439**. Both months in both years recorded the highest casualty rates which can be attributed to the holidays festive season as from **November to December** and people travelling around the country in high numbers and not maintaining traffic rules and regulations.
-* **Casualty Hotspots:** Established a clear relationship between **Road Type** and **Casualty Volume**. **Single Carriageway** roads led in the number of casualties recorded **(309,698).**
-* **Visibility Analysis:** Determined the correlation between **Day/Night** conditions and **casualty rates** across locations since casualties recorded during the day stood at **305K** of the total **417.8K** casualties, more than double those recorded during the night. Additionally, the number of casualties were recorded to be higher in **urban areas (259.9K**) than in **rural areas (162K)**. This can be attributed to factors such as; more people living or working in urban areas where travelling is often needed to move from one location to another.
+
+* **Cyclical Fatality Patterns:** Identified significant seasonal peaks in both 2021 and 2022. Casualties surged to **20,975 in November 2021** (compared to 18,439 in November 2020), a trend directly correlated with increased travel volume and reduced traffic law adherence during the end-of-year festive season.
+* **Infrastructure Risk Profiling:** Established a critical relationship between road design and safety. **Single Carriageway** roads emerged as the highest-risk infrastructure type, accounting for a staggering **309,698 casualties**.
+* **Environmental & Temporal Correlation:** Analysis reveals that daylight conditions do not mitigate risk; **305K casualties** (73% of the 417.8K total) occurred during the day, more than doubling nighttime rates. This suggests that traffic density and congestion are higher risk drivers than poor visibility.
+* **Geospatial Concentration:** Casualties are significantly more prevalent in **Urban Areas (259.9K)** compared to **Rural Areas (162K)**. This concentration is attributed to higher population density, complex pedestrian-vehicle interactions, and frequent short-distance transit in metropolitan hubs.
 
 ---
 
-## Recommendations
-- Implement targeted road safety campaigns and stricter traffic enforcement during high-risk festive months (November–December) to reduce seasonal casualty spikes.
-- Prioritize infrastructure upgrades and safety interventions on Single Carriageway roads, which account for the highest casualty volumes.
-- Optimize daytime traffic management through congestion control, peak-hour monitoring, and driver behavior enforcement to address higher daytime casualty rates.
-- Focus urban-specific road safety strategies, including pedestrian protection and traffic flow optimization, due to significantly higher casualties in urban areas.
-- Use analytics dashboards and historical data to support continuous monitoring, risk forecasting, and evidence-based road safety decision-making.
+## Strategic Recommendations
+
+* **Seasonal Enforcement Surges:** Deploy targeted road safety campaigns and high-visibility traffic enforcement during the **November–December** window to mitigate the proven seasonal surge in casualties.
+* **Infrastructure Safety Audits:** Prioritize capital expenditure for safety interventions—such as median barriers and improved signage—specifically on **Single Carriageway** roads to address the highest volume of incidents.
+* **Daytime Traffic Engineering:** Optimize daytime safety through enhanced congestion management, stricter peak-hour monitoring, and the implementation of "Traffic Calming" measures in high-density zones.
+* **Urban Pedestrian Protection:** Develop urban-specific safety frameworks focusing on pedestrian-heavy corridors and optimized traffic flow to address the higher incident rates in city centers.
+* **Predictive Policy-Making:** Utilize the developed **historical analytics dashboard** to transition from reactive to proactive road safety management, using data-driven forecasting to allocate emergency resources efficiently.
 
 ---
 ## Conclusion
